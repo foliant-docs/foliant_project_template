@@ -1,0 +1,13 @@
+/.*cache/
+/*.pre/
+/*.pdf
+/*.docx
+/*.mkdocs/
+/*.mkdocs.src/
+/*.idea/
+/*.log
+/*.xlsx
+/tmp.md
+/*.mm
+/*.env
+.DS_Store
